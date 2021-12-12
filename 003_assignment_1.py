@@ -1,0 +1,13 @@
+print("Hello, I am \"Gurmohitpal singh\"")
+print("Hello, I'm \"Gurmohitpal singh\"")
+
+print(1+2)
+print("1+2")
+print( True>False)
+print( False>True)
+print( 443>80)
+print( 3E8<38)
+print( 0b111100001010)
+print(0o5321)
+print(0x1235)
+print((5**2+12**2)**0.5 )
